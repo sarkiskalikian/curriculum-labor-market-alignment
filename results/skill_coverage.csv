@@ -1,0 +1,166 @@
+skill,domain,n_jobs,pct_of_postings,match_step,model_status,similarity_score,gap_type,final_status
+Microsoft Office,CBE,365,22.7,3,MISSING,0.4614,Teaching Gap,MISSING
+Excel,CBE,253,15.7,3,MISSING,0.4911,Teaching Gap,MISSING
+Negotiation,CBE,252,15.7,3,MISSING,0.4818,Teaching Gap,MISSING
+Customer Service,CBE,227,14.1,1,COVERED,1.0,Lexical Coverage,COVERED
+Sales,CBE,170,10.6,1,COVERED,1.0,Lexical Coverage,COVERED
+CRM,CBE,145,9.0,3,MISSING,0.5844,Partial / Documentation Gap,PARTIAL
+Microsoft Word,CBE,127,7.9,3,MISSING,0.4356,Teaching Gap,MISSING
+Accounting,CBE,105,6.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Market Research,CBE,104,6.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Data Analysis,CBE,97,6.0,1,COVERED,1.0,Lexical Coverage,COVERED
+Report Preparation,CBE,96,6.0,3,COVERED,0.6395,Semantic Coverage,COVERED
+Inventory Management,CBE,95,5.9,1,COVERED,1.0,Lexical Coverage,COVERED
+Financial Analysis,CBE,88,5.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Project Management,CBE,80,5.0,1,COVERED,1.0,Lexical Coverage,COVERED
+Market Analysis,CBE,76,4.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Sales Management,CBE,64,4.0,1,COVERED,1.0,Lexical Coverage,COVERED
+Financial Reporting,CBE,62,3.9,1,COVERED,1.0,Lexical Coverage,COVERED
+1C,CBE,62,3.9,3,MISSING,0.3622,Teaching Gap,MISSING
+SQL,CSE,59,3.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Customer Acquisition,CBE,58,3.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Presentation,CBE,58,3.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Python,CSE,56,3.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Client Relationship Management,CBE,56,3.5,3,COVERED,0.6425,Semantic Coverage,COVERED
+Reporting,CBE,49,3.0,1,COVERED,1.0,Lexical Coverage,COVERED
+Contract Management,CBE,48,3.0,3,MISSING,0.5868,Partial / Documentation Gap,PARTIAL
+Technical Documentation,CBE,46,2.9,3,COVERED,0.7081,Semantic Coverage,COVERED
+Sales Planning,CBE,45,2.8,1,COVERED,1.0,Lexical Coverage,COVERED
+Banking,CBE,45,2.8,1,COVERED,1.0,Lexical Coverage,COVERED
+Social Media Management,CBE,43,2.7,3,COVERED,0.6966,Semantic Coverage,COVERED
+Risk Management,CBE,42,2.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Competitor Analysis,CBE,42,2.6,3,COVERED,0.7098,Semantic Coverage,COVERED
+Sales Analysis,CBE,41,2.5,3,COVERED,0.7623,Partial / Documentation Gap,PARTIAL
+Business Development,CBE,40,2.5,3,COVERED,0.6769,Partial / Documentation Gap,PARTIAL
+Content Creation,CBE,39,2.4,3,COVERED,0.6052,Semantic Coverage,COVERED
+Team Management,CBE,39,2.4,2,COVERED,1.0,Lexical Coverage,COVERED
+Order Management,CBE,39,2.4,3,COVERED,0.6321,Partial / Documentation Gap,PARTIAL
+Jira,CSE,39,2.4,3,MISSING,0.3239,Partial / Documentation Gap,PARTIAL
+Marketing,CBE,39,2.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Quality Control,CBE,38,2.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Customer Support,CBE,38,2.4,3,COVERED,0.8693,Semantic Coverage,COVERED
+Competitive Analysis,CBE,37,2.3,2,COVERED,1.0,Lexical Coverage,COVERED
+Agile,CSE,37,2.3,1,COVERED,1.0,Lexical Coverage,COVERED
+PowerPoint,CBE,36,2.2,3,MISSING,0.4098,Teaching Gap,MISSING
+Social Media Marketing,CBE,35,2.2,1,COVERED,1.0,Lexical Coverage,COVERED
+Database Management,CSE,35,2.2,1,COVERED,1.0,Lexical Coverage,COVERED
+CI/CD,CSE,34,2.1,3,MISSING,0.3499,Teaching Gap,MISSING
+Sales Reporting,CBE,34,2.1,3,COVERED,0.737,Semantic Coverage,COVERED
+Loan Processing,CBE,33,2.0,3,MISSING,0.49,Teaching Gap,MISSING
+Regulatory Compliance,CBE,32,2.0,3,COVERED,0.6647,Semantic Coverage,COVERED
+Git,CSE,32,2.0,3,MISSING,0.382,Partial / Documentation Gap,PARTIAL
+Sales Strategy,CBE,32,2.0,1,COVERED,1.0,Lexical Coverage,COVERED
+Sales Process Management,CBE,32,2.0,3,COVERED,0.8687,Semantic Coverage,COVERED
+JavaScript,CSE,31,1.9,3,MISSING,0.4984,Partial / Documentation Gap,PARTIAL
+Digital Marketing,CBE,31,1.9,1,COVERED,1.0,Lexical Coverage,COVERED
+B2B Sales,CBE,31,1.9,3,MISSING,0.5862,Partial / Documentation Gap,PARTIAL
+Process Improvement,CBE,30,1.9,3,COVERED,0.7223,Semantic Coverage,COVERED
+Banking Legislation,CBE,30,1.9,3,COVERED,0.697,Semantic Coverage,COVERED
+Account Management,CBE,30,1.9,3,COVERED,0.618,Teaching Gap,MISSING
+Customer Communication,CBE,29,1.8,3,COVERED,0.7381,Semantic Coverage,COVERED
+Customer Needs Analysis,CBE,28,1.7,3,COVERED,0.6296,Partial / Documentation Gap,PARTIAL
+Budget Management,CBE,27,1.7,2,COVERED,1.0,Lexical Coverage,COVERED
+Contract Drafting,CBE,27,1.7,3,MISSING,0.4326,Teaching Gap,MISSING
+Risk Assessment,CBE,27,1.7,3,COVERED,0.7494,Semantic Coverage,COVERED
+Power BI,CBE,26,1.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Sales Promotion,CBE,26,1.6,3,COVERED,0.7044,Semantic Coverage,COVERED
+Code Review,CSE,25,1.6,3,MISSING,0.4699,Teaching Gap,MISSING
+Stakeholder Management,CBE,24,1.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Report Writing,CBE,24,1.5,3,COVERED,0.6566,Semantic Coverage,COVERED
+Project Planning,CBE,24,1.5,2,COVERED,1.0,Lexical Coverage,COVERED
+REST API,CSE,23,1.4,3,MISSING,0.3181,Partial / Documentation Gap,PARTIAL
+Scrum,CSE,23,1.4,3,MISSING,0.5795,Partial / Documentation Gap,PARTIAL
+React,CSE,22,1.4,3,MISSING,0.3151,Teaching Gap,MISSING
+Recruitment,CBE,22,1.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Business Analysis,CBE,22,1.4,3,COVERED,0.8089,Semantic Coverage,COVERED
+SEO,CBE,21,1.3,3,COVERED,0.717,Semantic Coverage,COVERED
+C#,CSE,20,1.2,3,MISSING,0.388,Partial / Documentation Gap,PARTIAL
+Object-Oriented Programming,CSE,20,1.2,1,COVERED,1.0,Lexical Coverage,COVERED
+Budgeting,CBE,20,1.2,1,COVERED,1.0,Lexical Coverage,COVERED
+PostgreSQL,CSE,19,1.2,3,MISSING,0.5611,Partial / Documentation Gap,PARTIAL
+TypeScript,CSE,19,1.2,3,MISSING,0.3806,Teaching Gap,MISSING
+Node.js,CSE,19,1.2,3,MISSING,0.3504,Teaching Gap,MISSING
+Financial Modeling,CBE,18,1.1,3,COVERED,0.7451,Semantic Coverage,COVERED
+Procurement,CBE,17,1.1,1,COVERED,1.0,Lexical Coverage,COVERED
+Linux,CSE,17,1.1,3,COVERED,0.7205,Semantic Coverage,COVERED
+Strategic Planning,CBE,16,1.0,3,COVERED,0.8576,Semantic Coverage,COVERED
+Docker,CSE,16,1.0,3,MISSING,0.374,Partial / Documentation Gap,PARTIAL
+Network Security,CSE,15,0.9,1,COVERED,1.0,Lexical Coverage,COVERED
+Data Visualization,CSE,15,0.9,1,COVERED,1.0,Lexical Coverage,COVERED
+Kubernetes,CSE,15,0.9,3,MISSING,0.4829,Partial / Documentation Gap,PARTIAL
+Brand Management,CBE,15,0.9,1,COVERED,1.0,Lexical Coverage,COVERED
+HTML,CSE,15,0.9,3,MISSING,0.5183,Partial / Documentation Gap,PARTIAL
+CSS,CSE,15,0.9,3,MISSING,0.367,Partial / Documentation Gap,PARTIAL
+MySQL,CSE,15,0.9,3,MISSING,0.5919,Partial / Documentation Gap,PARTIAL
+Financial Planning,CBE,14,0.9,3,COVERED,0.7553,Semantic Coverage,COVERED
+Statistical Analysis,CSE,13,0.8,2,COVERED,1.0,Lexical Coverage,COVERED
+Software Development,CSE,13,0.8,1,COVERED,1.0,Lexical Coverage,COVERED
+Email Marketing,CBE,12,0.7,1,COVERED,1.0,Lexical Coverage,COVERED
+PHP,CSE,12,0.7,3,MISSING,0.4432,Teaching Gap,MISSING
+Java,CSE,12,0.7,3,COVERED,0.6441,Semantic Coverage,COVERED
+Unit Testing,CSE,12,0.7,3,COVERED,0.6062,Partial / Documentation Gap,PARTIAL
+Forecasting,CBE,12,0.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Vendor Management,CBE,11,0.7,3,COVERED,0.6727,Semantic Coverage,COVERED
+Performance Management,CBE,11,0.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Information Security,CSE,11,0.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Debugging,CSE,11,0.7,1,COVERED,1.0,Lexical Coverage,COVERED
+Microservices,CSE,11,0.7,3,MISSING,0.4899,Partial / Documentation Gap,PARTIAL
+Logistics,CBE,10,0.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Audit,CBE,10,0.6,3,COVERED,0.7658,Semantic Coverage,COVERED
+Marketing Analytics,CBE,9,0.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Change Management,CBE,9,0.6,3,MISSING,0.5745,Partial / Documentation Gap,PARTIAL
+NoSQL,CSE,9,0.6,1,COVERED,1.0,Lexical Coverage,COVERED
+Operations Management,CBE,8,0.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Machine Learning,CSE,8,0.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Bash,CSE,8,0.5,3,MISSING,0.3693,Partial / Documentation Gap,PARTIAL
+Data Structures,CSE,8,0.5,1,COVERED,1.0,Lexical Coverage,COVERED
+Tax Accounting,CBE,8,0.5,3,COVERED,0.7923,Semantic Coverage,COVERED
+Redis,CSE,7,0.4,3,MISSING,0.2897,Teaching Gap,MISSING
+MongoDB,CSE,7,0.4,3,COVERED,0.6671,Semantic Coverage,COVERED
+GraphQL,CSE,7,0.4,3,MISSING,0.5385,Partial / Documentation Gap,PARTIAL
+Algorithms,CSE,7,0.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Variance Analysis,CBE,7,0.4,3,COVERED,0.6522,Partial / Documentation Gap,PARTIAL
+AWS,CSE,6,0.4,3,MISSING,0.5219,Partial / Documentation Gap,PARTIAL
+Database Design,CSE,6,0.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Cloud Computing,CSE,6,0.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Cost Analysis,CBE,6,0.4,3,COVERED,0.6507,Semantic Coverage,COVERED
+Cybersecurity,CSE,6,0.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Product Marketing,CBE,6,0.4,3,COVERED,0.8693,Semantic Coverage,COVERED
+R,CSE,6,0.4,1,COVERED,1.0,Lexical Coverage,COVERED
+Next.js,CSE,5,0.3,3,MISSING,0.3375,Teaching Gap,MISSING
+C++,CSE,5,0.3,3,MISSING,0.5923,Partial / Documentation Gap,PARTIAL
+PyTorch,CSE,5,0.3,3,MISSING,0.3836,Partial / Documentation Gap,PARTIAL
+Angular,CSE,5,0.3,3,MISSING,0.3623,Teaching Gap,MISSING
+Supply Chain Management,CBE,5,0.3,1,COVERED,1.0,Lexical Coverage,COVERED
+Statistics,CSE,5,0.3,1,COVERED,1.0,Lexical Coverage,COVERED
+Tableau,CBE,5,0.3,3,MISSING,0.3531,Partial / Documentation Gap,PARTIAL
+Software Architecture,CSE,5,0.3,3,COVERED,0.7504,Teaching Gap,MISSING
+API Development,CSE,5,0.3,3,MISSING,0.5436,Partial / Documentation Gap,PARTIAL
+GitHub,CSE,4,0.2,3,MISSING,0.4851,Partial / Documentation Gap,PARTIAL
+Business Strategy,CBE,4,0.2,1,COVERED,1.0,Lexical Coverage,COVERED
+TensorFlow,CSE,4,0.2,3,MISSING,0.4777,Partial / Documentation Gap,PARTIAL
+Vue.js,CSE,4,0.2,3,MISSING,0.3117,Teaching Gap,MISSING
+Express.js,CSE,3,0.2,3,MISSING,0.2853,Teaching Gap,MISSING
+Training and Development,CBE,3,0.2,3,MISSING,0.5958,Partial / Documentation Gap,PARTIAL
+DevOps,CSE,3,0.2,3,MISSING,0.5716,Partial / Documentation Gap,PARTIAL
+Kotlin,CSE,3,0.2,3,MISSING,0.2843,Teaching Gap,MISSING
+Go,CSE,3,0.2,3,MISSING,0.2549,Teaching Gap,MISSING
+Testing,CSE,3,0.2,1,COVERED,1.0,Partial / Documentation Gap,PARTIAL
+ETL,CSE,3,0.2,2,COVERED,1.0,Lexical Coverage,COVERED
+KPI Management,CBE,3,0.2,3,MISSING,0.5335,Partial / Documentation Gap,PARTIAL
+System Design,CSE,3,0.2,3,COVERED,0.9578,Semantic Coverage,COVERED
+Azure,CSE,3,0.2,3,MISSING,0.5994,Partial / Documentation Gap,PARTIAL
+Investment Analysis,CBE,3,0.2,1,COVERED,1.0,Lexical Coverage,COVERED
+Pandas,CSE,3,0.2,2,COVERED,1.0,Lexical Coverage,COVERED
+Tailwind CSS,CSE,2,0.1,3,MISSING,0.3467,Teaching Gap,MISSING
+Cash Flow Analysis,CBE,2,0.1,1,COVERED,1.0,Lexical Coverage,COVERED
+Webpack,CSE,2,0.1,3,MISSING,0.4304,Teaching Gap,MISSING
+Business Intelligence,CBE,2,0.1,1,COVERED,1.0,Lexical Coverage,COVERED
+NumPy,CSE,2,0.1,2,COVERED,1.0,Lexical Coverage,COVERED
+Shell Scripting,CSE,1,0.1,3,MISSING,0.3629,Partial / Documentation Gap,PARTIAL
+Rust,CSE,1,0.1,3,MISSING,0.4474,Teaching Gap,MISSING
+Computer Vision,CSE,1,0.1,3,MISSING,0.5847,Partial / Documentation Gap,PARTIAL
+Business Analytics,CBE,1,0.1,1,COVERED,1.0,Lexical Coverage,COVERED
+Swift,CSE,1,0.1,3,MISSING,0.295,Teaching Gap,MISSING
+SAP,CBE,1,0.1,3,MISSING,0.4554,Teaching Gap,MISSING
+Scala,CSE,1,0.1,3,MISSING,0.4442,Teaching Gap,MISSING

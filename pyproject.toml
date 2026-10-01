@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "skillgap"
+version = "1.0.0"
+description = "Curriculum–labor market alignment: hybrid lexical + SBERT matching of job-market skills to syllabus topics"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scikit-learn>=1.3",
+    "sentence-transformers>=2.7",
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+llm = ["openai>=1.40", "anthropic>=0.34", "tqdm>=4.66"]
+dev = ["pytest>=8.0", "matplotlib>=3.7", "jupyter>=1.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
