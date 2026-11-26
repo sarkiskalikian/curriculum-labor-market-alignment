@@ -1,0 +1,70 @@
+# private inputs: job-posting corpus and syllabus data are not redistributed
+data/private/
+data/raw/
+data/interim/
+# full matching output contains syllabus topics and course names
+results/matching_results*.csv
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# secrets
+.env
+*.key
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# no scraped postings or samples in the repo
+data/sample/
+
+# --- secrets and credentials: never commit ---
+.env
+.env.*
+!.env.example
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+id_rsa*
+id_ed25519*
+credentials*.json
+client_secret*.json
+service_account*.json
+*service-account*.json
+token.json
+secrets.*
+*.secret
+.netrc
+.pypirc
+# --- databases and local data dumps ---
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+# --- notebooks / editors / OS ---
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
