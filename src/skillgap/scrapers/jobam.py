@@ -8,7 +8,7 @@ routes each text block into a *_en / *_am / *_ru column based on its script, so
 the output lines up with the staff.am columns.
 
 Category IDs used in the study: 17 = IT / software development,
-16 = Human resources, 39 = Banking & finance (plus others listed in the README).
+16 = Human resources, 39 = Banking & finance, plus other category IDs.
 """
 
 from __future__ import annotations

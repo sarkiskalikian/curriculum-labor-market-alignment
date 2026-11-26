@@ -6,7 +6,7 @@ parsing the rendered HTML, and only fall back to the visible "skill chips" when
 the JSON has no skills for a posting.
 
 Category IDs used in the study: 1 = Software development, 8 = Administrative,
-13 = Finance (plus several others listed in the README).
+13 = Finance, plus other category IDs.
 """
 
 from __future__ import annotations
